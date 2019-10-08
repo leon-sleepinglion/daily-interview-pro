@@ -22,7 +22,8 @@ class ListNode(object):
       prev_node = head
       head = next_node
 
-  # Recursive Solution      
+  # Recursive Solution
+  # http://joequery.me/notes/reverse-linked-list-recursion/      
   def reverseRecursively(self, head):
     pass
 
